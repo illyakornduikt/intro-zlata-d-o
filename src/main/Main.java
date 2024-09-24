@@ -1,4 +1,6 @@
-package src;
+package src.main;
+
+import src.main.GamePanel;
 
 import javax.swing.*;
 
